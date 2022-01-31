@@ -2,6 +2,5 @@ To start, I Created a new tab in Postman
 GET request using https://simple-tool-rental-api.glitch.me
 Using the documentation from https://github.com/vdespa/quick-introduction-to-postman/blob/main/simple-tool-rental-api.md ,
 Under ENDPOINTS select the STATUS option and copy "GET /status" add it to the Postman URL 
-[![Screenshot-2022-01-31-082934.png](https://i.postimg.cc/XYVST0nc/Screenshot-2022-01-31-082934.png)](https://postimg.cc/ZCDMd2BC)
 Press SEND
 Status is 200 ok
