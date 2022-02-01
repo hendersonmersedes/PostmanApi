@@ -4,3 +4,7 @@ Using the documentation from https://github.com/vdespa/quick-introduction-to-pos
 Under ENDPOINTS select the STATUS option and copy "GET /status" add it to the Postman URL 
 Press SEND
 Status is 200 ok
+---------------------------
+GET vs POST
+GET retrieves data
+POST creates new data
