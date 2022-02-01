@@ -1,0 +1,4 @@
+Variables are placeholders for values.
+4 types: Global, Environment, Local, Data
+Global variables are always available within the workspace.
+{{myVariable}}
