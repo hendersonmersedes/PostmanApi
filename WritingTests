@@ -1,0 +1,5 @@
+>>Using the site "example.com"
+>>Choose the snippet used in Postman for "Status code is 200"
+Format: pm.test("Status code is 200",function(){
+              pm.response.to.have.status(200);
+              });
