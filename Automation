@@ -1,0 +1,8 @@
+Test Automation is a great way to automate your collections.
+You can use collection runner, Postman Monitors, Newman, Jenkins and other Continuous Integration Tools
+--------------
+Collection Runner runs the entire collection or subset without using external tools.
+Choose the collection you want to run
+This opens a new window for you
+You choose the environment, iterations, delay(miliseconds), Log responses and Data.
+The results are shown after you press RUN
